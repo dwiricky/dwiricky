@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Ricky Dwi (aka Dwirycki), a passionate software developer with expertise in both backend development and data science. 💻 I specialize in building scalable web applications using Python, Flask, and Laravel, and I have a strong background in machine learning 🤖 and data visualization 📊.<br><br>I love creating projects that solve real-world problems and help businesses improve their processes 🚀. I'm always excited to explore new technologies 🔍 and share my knowledge with the community 🌍. My recent work spans across web development, data analysis, and API development, focusing on building robust and user-friendly applications 💡.
+Hi there! 👋 I'm Ricky Dwi (aka Dwiricky), a passionate software developer with expertise in both backend development and data science. 💻 I specialize in building scalable web applications using Python, Flask, and Laravel, and I have a strong background in machine learning 🤖 and data visualization 📊.<br><br>I love creating projects that solve real-world problems and help businesses improve their processes 🚀. I'm always excited to explore new technologies 🔍 and share my knowledge with the community 🌍. My recent work spans across web development, data analysis, and API development, focusing on building robust and user-friendly applications 💡.
 
 
 ## 🌐 Socials:
