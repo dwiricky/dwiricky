@@ -4,19 +4,6 @@ Hi there! 👋 I'm Ricky Dwi (aka Dwiricky) — a software developer working acr
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ricky.dwi.se) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricky-dwi-setyawan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwiricky47@gmail.com)
 
-# 🚀 Featured Projects:
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**my-portofolio**](https://github.com/dwiricky/my-portofolio) · [🔗 live](https://my-portofolio-three-blue.vercel.app) | Personal portfolio site, deployed on Vercel | React, Vite, CSS |
-| [**KNN-Fast-Slow-Moving**](https://github.com/dwiricky/KNN-Fast-Slow-Moving) | KNN classifier that labels sembako inventory as fast- or slow-moving | Python, scikit-learn, pandas |
-| [**CBF_Skincare**](https://github.com/dwiricky/CBF_Skincare) | Content-based filtering recommender for skincare products | Python |
-| [**flask_gelombang_air_laut**](https://github.com/dwiricky/flask_gelombang_air_laut) | Sea wave data web app | Flask, HTML |
-| [**laravel_qurban_web**](https://github.com/dwiricky/laravel_qurban_web) | Qurban management web application | Laravel, SCSS |
-| [**cnn_jentik_nyamuk**](https://github.com/dwiricky/cnn_jentik_nyamuk) | CNN image classifier for mosquito larvae detection | Python, TensorFlow/Keras |
-| [**data_crawling_gmaps**](https://github.com/dwiricky/data_crawling_gmaps) | Google Maps data crawler | Python |
-| [**chatbot-transformer-forward-chaining**](https://github.com/dwiricky/chatbot-transformer-forward-chaining) | Chatbot combining transformers with forward-chaining inference | Python |
-
 # 💻 Tech Stack:
 
 **Languages**<br>
